@@ -1,0 +1,8 @@
+.form{
+        margin: 2px 3px;
+        border: 3px solid rgb(145, 217, 1);
+}
+.submit{
+    background-color: aqua;
+    border-radius: 2px;
+}
